@@ -1,7 +1,7 @@
 body
 
 {
-    color:darkgrey
+    color:red
     text-align: center;
     font-family: "arial";
     font size: 18px;
@@ -13,7 +13,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 2px solid #DDD;
+    border: 2px solid red;
     margin: 0 auto;
 }
 #container h1
